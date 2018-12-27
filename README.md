@@ -1,5 +1,5 @@
-# GeekHub Forum
-Here is a Forum of GeekHub users.
+# GeekHub Forums
+Here is Forums of GeekHub users.
 
 If you have questions or feature requests, please [create an issue](https://github.com/Alleeks/GeekHubForum/issues/new).
 
